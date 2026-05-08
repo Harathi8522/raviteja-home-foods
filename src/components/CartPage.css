@@ -1,0 +1,148 @@
+/* PAGE */
+
+.cart-page {
+  padding: 50px 8%;
+  background: #f8f8f8;
+  min-height: 100vh;
+}
+
+/* TITLE */
+
+.cart-title {
+  text-align: center;
+  font-size: 52px;
+  font-weight: 800;
+  margin-bottom: 50px;
+  color: #1d2b3a;
+}
+
+/* MAIN LAYOUT */
+
+.cart-container {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+/* LEFT SIDE */
+
+.cart-items {
+  flex: 2;
+}
+
+/* PRODUCT CARD */
+
+.cart-card {
+  display: flex;
+  gap: 25px;
+  background: white;
+  padding: 20px;
+  border-radius: 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* IMAGE */
+
+.cart-card img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+/* INFO */
+
+.cart-info h3 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.cart-info p {
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.cart-info h4 {
+  color: #d32f2f;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+/* REMOVE BUTTON */
+
+.cart-info button {
+  background: transparent;
+  border: none;
+  color: #d32f2f;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+/* RIGHT SIDE */
+
+.cart-summary {
+  flex: 1;
+  background: white;
+  padding: 35px;
+  border-radius: 18px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+
+  position: sticky;
+  top: 120px;
+}
+
+/* SUBTOTAL */
+
+.cart-summary h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  color: #1d2b3a;
+}
+
+/* CHECKOUT BUTTON */
+
+.checkout-btn {
+  width: 100%;
+  padding: 16px;
+  background: #c62828;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.checkout-btn:hover {
+  background: #8e0000;
+}
+
+/* MOBILE */
+
+@media (max-width: 900px) {
+
+  .cart-container {
+    flex-direction: column;
+  }
+
+  .cart-summary {
+    width: 100%;
+    position: static;
+  }
+
+  .cart-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cart-card img {
+    width: 100%;
+    height: 250px;
+  }
+
+}

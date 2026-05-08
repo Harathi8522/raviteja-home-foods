@@ -1,0 +1,50 @@
+.title-wrapper {
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+
+  text-align: center;
+
+  margin: 40px 0;
+}
+
+.category-title {
+
+  font-size: 52px;
+
+  font-weight: 700;
+
+  color: #111;
+
+  margin: 0;
+}
+
+.page-subtitle {
+
+  margin-top: 12px;
+
+  font-size: 18px;
+
+  color: #8b0000;
+
+  font-weight: 600;
+
+  font-style: italic;
+}
+
+.product-grid {
+
+  display: grid;
+
+  grid-template-columns:
+  repeat(4, 1fr);
+
+  gap: 30px;
+
+  margin-top: 40px;
+}

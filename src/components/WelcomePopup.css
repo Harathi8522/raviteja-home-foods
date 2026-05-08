@@ -1,0 +1,235 @@
+/* OVERLAY */
+
+.popup-overlay {
+
+  position: fixed;
+
+  inset: 0;
+
+  background:
+  rgba(0,0,0,0.65);
+
+  backdrop-filter: blur(8px);
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  z-index: 99999;
+
+  animation: fadeIn 0.4s ease;
+}
+
+/* POPUP */
+
+.popup-container {
+
+  width: 88%;
+
+  max-width: 1350px;
+
+  background: #111;
+
+  border-radius: 30px;
+
+  overflow: hidden;
+
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  position: relative;
+
+  box-shadow:
+  0 20px 80px rgba(0,0,0,0.45);
+
+  animation: popupScale 0.4s ease;
+}
+
+/* IMAGE */
+
+.popup-image img {
+
+  width: 100%;
+
+  height: 100%;
+
+  object-fit: cover;
+}
+
+/* CONTENT */
+
+.popup-content {
+
+  padding: 80px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  background:
+  linear-gradient(
+    135deg,
+    #5c1d14,
+    #c44536
+  );
+
+  color: white;
+}
+
+.popup-content span {
+
+  font-size: 15px;
+
+  letter-spacing: 3px;
+
+  margin-bottom: 25px;
+
+  color: #ffe8c2;
+}
+
+.popup-content h1 {
+
+  font-size: 72px;
+
+  line-height: 1.15;
+
+  margin-bottom: 30px;
+}
+
+.popup-content p {
+
+  font-size: 24px;
+
+  line-height: 1.8;
+
+  color: #fff2dc;
+
+  margin-bottom: 40px;
+}
+
+/* BUTTON */
+
+.popup-btn {
+
+  width: fit-content;
+
+  padding: 18px 38px;
+
+  border: none;
+
+  border-radius: 60px;
+
+  background: white;
+
+  color: #111;
+
+  font-size: 17px;
+
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.popup-btn:hover {
+
+  transform: translateY(-4px);
+}
+
+/* CLOSE */
+
+.popup-close {
+
+  position: absolute;
+
+  top: 20px;
+
+  right: 20px;
+
+  width: 45px;
+
+  height: 45px;
+
+  border: none;
+
+  border-radius: 50%;
+
+  background: rgba(255,255,255,0.15);
+
+  color: white;
+
+  font-size: 20px;
+
+  cursor: pointer;
+
+  z-index: 5;
+}
+
+/* ANIMATIONS */
+
+@keyframes fadeIn {
+
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes popupScale {
+
+  from {
+
+    transform:
+    scale(0.92);
+
+    opacity: 0;
+  }
+
+  to {
+
+    transform:
+    scale(1);
+
+    opacity: 1;
+  }
+}
+
+/* MOBILE */
+
+@media(max-width:900px){
+
+  .popup-container {
+
+    grid-template-columns: 1fr;
+  }
+
+  .popup-image {
+
+    height: 300px;
+  }
+
+  .popup-content {
+
+    padding: 40px;
+  }
+
+  .popup-content h1 {
+
+    font-size: 42px;
+  }
+
+  .popup-content p {
+
+    font-size: 18px;
+  }
+
+}

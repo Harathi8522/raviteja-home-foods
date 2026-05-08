@@ -1,0 +1,1324 @@
+[
+  {
+    "id": 1,
+    "name": "Dry Fruits Laduu",
+    "category": "Sweets",
+    "image": "/src/assets/images/dryfruitladdu.png",
+    "prices": {
+      "250g": 180,
+      "500g": 340,
+      "1kg": 650
+    }
+  },
+
+  {
+    "id": 2,
+    "name": "Mothichur Laddu",
+    "category": "Sweets",
+    "image": "/src/assets/images/MotichurLaddu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 3,
+    "name": "Kobbari Vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/kobbarivundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 4,
+    "name": "Bobbatlu(Bakshalu)",
+    "category": "Sweets",
+    "image": "/src/assets/images/Bobbatlu(Bakshalu).png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 5,
+    "name": "Jilebi",
+    "category": "Sweets",
+    "image": "/src/assets/images/jilebisweet.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 6,
+    "name": "Nuvvula Ariselu(Ghee)",
+    "category": "Sweets",
+    "image": "/src/assets/images/nuvvulaariselu(oil).png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 7,
+    "name": "Kobbari Vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/kobbarivundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 8,
+    "name": "Boondi Laddu",
+    "category": "Sweets",
+    "image": "/src/assets/images/boondiladdu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 9,
+    "name": "Nuvvula Ariselu (Ghee)",
+    "category": "Sweets",
+    "image": "/src/assets/images/Nuvvula Ariselu(Ghee).png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 10,
+    "name": "Ariselu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Ariselu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 11,
+    "name": "Annamayya Laddu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Annamayya Laddu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 12,
+    "name": "Ragi Laddu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Ragi Laddu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+    {
+    "id": 13,
+    "name": "Bellam Sunnundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Bellam sunnudalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 14,
+    "name": "sugar sunnundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/sugar sunnundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+
+     {
+    "id": 15,
+    "name": "potti pappu sunnundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/potti pappu sunnudalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 16,
+    "name": "maramarla vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/maramarla vundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 17,
+    "name": "Peanut Vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/peanut vundalu(chikki vundalu).png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 18,
+    "name": "Boondi Mithai",
+    "category": "Sweets",
+    "image": "/src/assets/images/Boondi Mithai.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 19,
+    "name": "Nuvvula Vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Nuvvula Vundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 20,
+    "name": "Milk Mysore pak",
+    "category": "Sweets",
+    "image": "/src/assets/images/Milk Mysoor Pak.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 21,
+    "name": "Mithai Vundalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/Mithai vundalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 22,
+    "name": "Ongole Mysore Pak",
+    "category": "Sweets",
+    "image": "/src/assets/images/ongole mysore pak.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+
+     {
+    "id": 23,
+    "name": "Mysore Pak",
+    "category": "Sweets",
+    "image": "/src/assets/images/Mysore Pak.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 24,
+    "name": "karjura kalakand",
+    "category": "Sweets",
+    "image": "/src/assets/images/karjura kalakand.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 25,
+    "name": "Ajmira kalakand",
+    "category": "Sweets",
+    "image": "/src/assets/images/Ajmira kalakand.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 26,
+    "name": "kashmira kalakand",
+    "category": "Sweets",
+    "image": "/src/assets/images/kashmira kalakand.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+     {
+    "id": 27,
+    "name": "Dry Fruits Kalakand",
+    "category": "Sweets",
+    "image": "/src/assets/images/dry fruits kalakand.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 28,
+    "name": "kaju barfi",
+    "category": "Sweets",
+    "image": "/src/assets/images/kaju barfi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 29,
+    "name": "kaju mithai",
+    "category": "Sweets",
+    "image": "/src/assets/images/kaju mithai.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 30,
+    "name": "kaju flower",
+    "category": "Sweets",
+    "image": "/src/assets/images/kaju flower.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 31,
+    "name": "Badusha",
+    "category": "Sweets",
+    "image": "/src/assets/images/Badusha.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 32,
+    "name": "Chitti Badhusha",
+    "category": "Sweets",
+    "image": "/src/assets/images/chitti badhusha.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 33,
+    "name": "chitti kaja",
+    "category": "Sweets",
+    "image": "/src/assets/images/chitti kaja.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 34,
+    "name": "Kakinada Kaja",
+    "category": "Sweets",
+    "image": "/src/assets/images/kakinada kaja.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 35,
+    "name": "Tapeshwaram Kaja",
+    "category": "Sweets",
+    "image": "/src/assets/images/tapeshwaram kaja.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 36,
+    "name": "Dry Fruits Halwa",
+    "category": "Sweets",
+    "image": "/src/assets/images/dry fruits halwa.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 37,
+    "name": "Bandar Halwa",
+    "category": "Sweets",
+    "image": "/src/assets/images/Bandar Halwa.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 38,
+    "name": "Kova Poori",
+    "category": "Sweets",
+    "image": "/src/assets/images/Kova Poori.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 39,
+    "name": "Dudh Ped",
+    "category": "Sweets",
+    "image": "/src/assets/images/dudh ped.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 40,
+    "name": "kova sweet",
+    "category": "Sweets",
+    "image": "/src/assets/images/kova sweet.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 41,
+    "name": "Sugar Putharekulu",
+    "category": "Sweets",
+    "image": "/src/assets/images/sugar putharekulu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 42,
+    "name": "Bellam Puthareku",
+    "category": "Sweets",
+    "image": "/src/assets/images/bellam poothareku.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 43,
+    "name": "Dry Fruits Putharekulu",
+    "category": "Sweets",
+    "image": "/src/assets/images/dry fruits poothareku.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 44,
+    "name": "Jaangri",
+    "category": "Sweets",
+    "image": "/src/assets/images/Jaangri.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 45,
+    "name": "Kajjikayalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/kajjikayalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 46,
+    "name": "Chitti Kajjikayalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/chitti kajjikayalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 47,
+    "name": "Bellam Gavvalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/bellam gavvalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 48,
+    "name": "Kala Jamun",
+    "category": "Sweets",
+    "image": "/src/assets/images/kala jamun.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 49,
+    "name": "Gulab Jamun",
+    "category": "Sweets",
+    "image": "/src/assets/images/gulab jamun.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 50,
+    "name": "Kova Badhusha",
+    "category": "Sweets",
+    "image": "/src/assets/images/kova badhusha.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 51,
+    "name": "Chilakalu Sweet",
+    "category": "Sweets",
+    "image": "/src/assets/images/chilakalu sweet.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 52,
+    "name": "Chakkara Pongali",
+    "category": "Sweets",
+    "image": "/src/assets/images/chakkara pongali.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 53,
+    "name": "Poornalu",
+    "category": "Sweets",
+    "image": "/src/assets/images/poornalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 54,
+    "name": "Mamidi Thandra",
+    "category": "Sweets",
+    "image": "/src/assets/images/mamidi thandra.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   
+ 
+
+   {
+    "id": 56,
+    "name": "Madatha Kaja",
+    "category": "Sweets",
+    "image": "/src/assets/images/Madatha Kaja.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  
+   {
+    "id": 57,
+    "name": "Atuka Mixture",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/atukula mixture.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 58,
+    "name": "Big Chekodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/big chekodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 59,
+    "name": "Boondi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/boondi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 60,
+    "name": "Chakinalu",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/chakinalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 61,
+    "name": "Chekkalu",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/chekkalu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 62,
+    "name": "Corn Flax",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/corn flax.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 63,
+    "name": "Gulabilu",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/gulabilu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 64,
+    "name": "Hand Pakodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/hand pakodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 65,
+    "name": "Kaju Pakodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/kaju pakodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 66,
+    "name": "Mixture",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/mixture.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 67,
+    "name": "Palli Pakodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/palli pakodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 68,
+    "name": "Peanut Fry",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/peanut fry.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 69,
+    "name": "Ragi Pusa",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/ragi pusa.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 70,
+    "name": "Red Chekodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/red chekodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 71,
+    "name": "Ribbon Pakodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/ribbon pakodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 72,
+    "name": "Ringu Murukulu",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/ringu murukulu.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 73,
+    "name": "Royal Mixture",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/royal mixture.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 74,
+    "name": "Sannapusa",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/sannapusa.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 75,
+    "name": "Small Chekodi",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/small chekodi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 76,
+    "name": "Tomato Pusa",
+    "category": "Namkeen",
+    "image": "/src/assets/images/namkeen/tomato pusa.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+   {
+    "id": 77,
+    "name": "Avayaka Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/avakaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 78,
+    "name": "Chicken Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/chicken pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 79,
+    "name": "Chinthakaya Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/chinthakaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 80,
+    "name": "Fish Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/fish pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 81,
+    "name": "Gongura Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/gongura pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 82,
+    "name": "Kakarakaya Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/kakarakaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 83,
+    "name": "Karvepaku Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/karvepaku pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 84,
+    "name": "Kothimeera Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/kothimeera pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 85,
+    "name": "Magaya Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/magaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 86,
+    "name": "Mutton Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/mutton pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 87,
+    "name": "Nimmakaya Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/nimmakaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 88,
+    "name": "Pandu Mirchi Gongura",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/pandu mirchi gongura.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 89,
+    "name": "Pandu Mirchi",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/pandu mirchi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 90,
+    "name": "Royyala Pickle(Prawns)",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/prawns pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 91,
+    "name": "Pudina Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/pudina pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 92,
+    "name": "Tomato Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/tomato pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 93,
+    "name": "Vellulli Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/vellulli pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 94,
+    "name": "Vusirikaya Pickle",
+    "category": "Pickles",
+    "image": "/src/assets/images/pickles/vusirikaya pickle.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 95,
+    "name": "Avisela Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/aviselu karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 96,
+    "name": "Idly Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/idly karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 97,
+    "name": "Kakarakaya karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/kakarakaya karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 98,
+    "name": "Karivepaku Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/karivepaku karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 99,
+    "name": "Kothimeera Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/kothimeera karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 100,
+    "name": "Masala Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/masala karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 101,
+    "name": "Munugaaku Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/munagaaku karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+    "id": 102,
+    "name": "Nalla Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/nalla karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+    {
+    "id": 103,
+    "name": "Pachi Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/pachi karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+    {
+    "id": 104,
+    "name": "Pudina Karam",
+    "category": "Chilli Powders",
+    "image": "/src/assets/images/chilli powders/pudina karam.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+    {
+    "id": 105,
+    "name": "Kandi Podi",
+    "category": "Daily Essentials",
+    "image": "/src/assets/images/chilli powders/kandi podi.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+    {
+    "id": 106,
+    "name": "Turmeric Powder",
+    "category": "Daily Essentials",
+    "image": "/src/assets/images/chilli powders/Turmeric Powder.png",
+    "prices": {
+      "250g": 150,
+      "500g": 280,
+      "1kg": 550
+    }
+  },
+
+  {
+  "id": 107,
+  "name": "Assorted Sweets",
+  "category": "New Arrivals",
+  "image": "/src/assets/images/Assorted sweets.png",
+  "prices": {
+    "250g": 195,
+    "500g": 380,
+    "1kg": 750
+  }
+},
+{
+  "id": 108,
+  "name": "4pcs Gift Box",
+  "category": "New Arrivals",
+  "image": "/src/assets/images/sweets box.png",
+  "prices": {
+    "250g": 140,
+    "500g": 270,
+    "1kg": 520
+  }
+},
+{
+  "id": 109,
+  "name": "Combined Masalas",
+  "category": "New Arrivals",
+  "image": "/src/assets/images/Combined masalas.png",
+  "prices": {
+    "250g": 175,
+    "500g": 330,
+    "1kg": 650
+  }
+},
+{
+  "id": 110,
+  "name": "Kalakand",
+  "category": "New Arrivals",
+  "image": "/src/assets/images/kalakand.png",
+  "prices": {
+    "250g": 210,
+    "500g": 400,
+    "1kg": 770
+  }
+}
+
+
+]
+
+
+   
+
+  
+
+    
+
+   
+
