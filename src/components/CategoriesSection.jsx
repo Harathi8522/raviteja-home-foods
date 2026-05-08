@@ -9,42 +9,104 @@ import essentialsImg from "../assets/images/category-essentials.png";
 import giftImg from "../assets/images/category-gift.png";
 
 function CategoriesSection() {
+
   const categories = [
-    { title: "Sweets", image: sweetImg },
-    { title: "Namkeen", image: namkeenImg },
-    { title: "Pickles", image: pickleImg },
-    { title: "Chilli Powders", image: chilliImg },
-    { title: "Daily Essentials", image: essentialsImg },
-    { title: "Gift Packs", image: giftImg },
+
+    {
+      title: "Sweets",
+      image: sweetImg,
+      slug: "sweets"
+    },
+
+    {
+      title: "Namkeen",
+      image: namkeenImg,
+      slug: "namkeen"
+    },
+
+    {
+      title: "Pickles",
+      image: pickleImg,
+      slug: "pickles"
+    },
+
+    {
+      title: "Chilli Powders",
+      image: chilliImg,
+      slug: "chilli-powders"
+    },
+
+    {
+      title: "Daily Essentials",
+      image: essentialsImg,
+      slug: "essentials"
+    },
+
+    {
+      title: "Gift Packs",
+      image: giftImg,
+      slug: "gifts"
+    }
+
   ];
 
   return (
+
     <section className="categories">
+
       <div className="categories-head">
-        <p>OUR COLLECTIONS</p>
-        <h2>Recipes That Carry Memories</h2>
+
+        <p>
+          OUR COLLECTIONS
+        </p>
+
+        <h2>
+          Recipes That Carry Memories
+        </h2>
+
       </div>
 
       <div className="category-grid">
+
         {categories.map((item, index) => (
+
           <div
             key={index}
             className="category-card"
-            style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage:
+              `url(${item.image})`
+            }}
           >
-            <div className="category-overlay">
-              <h3>{item.title}</h3>
 
-              {/* 🔥 DYNAMIC LINK */}
-              <Link to={`/category/${item.title.toLowerCase()}`}>
-                <button className="shop-btn">Shop Now</button>
+            <div className="category-overlay">
+
+              <h3>
+                {item.title}
+              </h3>
+
+              <Link
+                to={`/category/${item.slug}`}
+              >
+
+                <button className="shop-btn">
+
+                  Shop Now
+
+                </button>
+
               </Link>
 
             </div>
+
           </div>
+
         ))}
+
       </div>
+
     </section>
+
   );
 }
 
