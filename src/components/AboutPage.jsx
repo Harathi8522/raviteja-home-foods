@@ -1,187 +1,267 @@
 import "./InfoPages.css";
 
 import p1 from "../assets/about/p1.png";
-import p2 from "../assets/about/p5.png";
-import p3 from "../assets/about/p3.png";
-import p4 from "../assets/about/p6.png";
+import p2 from "../assets/about/uncle.png";
+import p3 from "../assets/about/uncle1.png";
+import p4 from "../assets/about/uncle2.png";
+import uncle4 from "../assets/about/uncle4.png";
+
 
 function AboutPage() {
+return ( <section className="cinematic-about">
 
-  return (
+```
+  {/* HERO */}
 
-    <section className="cinematic-about">
+  <div
+    className="hero-section"
+    style={{
+      backgroundImage: `linear-gradient(
+        rgba(0,0,0,0.75),
+        rgba(0,0,0,0.75)
+      ), url(${p1})`
+    }}
+  >
+    <div className="hero-content">
 
-      {/* HERO */}
+      <span className="hero-badge">
+        SINCE 1973
+      </span>
 
-      <div
-        className="hero-section"
-        style={{
-          backgroundImage:
-          `linear-gradient(
-            rgba(0,0,0,0.55),
-            rgba(0,0,0,0.55)
-          ), url(${p1})`
-        }}
-      >
+      <h1>
+        Raviteja Home Foods
+        <br />
+        Private Limited
+      </h1>
 
-        <div className="hero-content">
+      <p>
+        A legacy built on trust, quality,
+        innovation, and generations of excellence.
+      </p>
 
-          <h1>
-            Not Just Food.
-            <br />
-            A Tradition That Lives Forever.
-          </h1>
+    </div>
+  </div>
 
-          <p>
-            Every homemade flavor carries
-            love, memories, culture,
-            and generations of Telugu tradition.
-          </p>
+  {/* FOUNDER SPOTLIGHT */}
 
-        </div>
+  <div className="founder-section">
 
+    <div className="founder-image">
+      <img src={p2} alt="Prasad Kumar" />
+    </div>
+
+    <div className="founder-content">
+
+      <span className="mini-tag">
+        THE MAN BEHIND THE GROWTH
+      </span>
+
+      <h2>
+        Veeravally Prasad Kumar
+      </h2>
+
+      <p>
+        A major milestone in our journey was achieved
+        on 06/05/1996 when new operations were
+        established in Hyderabad.
+      </p>
+
+      <p>
+        Under his leadership, Raviteja Home Foods
+        embraced modernization, advanced technology,
+        and large-scale operational excellence.
+      </p>
+
+      <p>
+        His vision transformed the organization into
+        a prestigious Private Limited company while
+        preserving the values that built customer trust.
+      </p>
+
+    </div>
+
+  </div>
+
+  {/* TIMELINE */}
+
+  <div className="timeline-section">
+
+    <h2>Our Journey Through Time</h2>
+
+    <div className="timeline">
+
+      <div className="timeline-card">
+        <h3>1973</h3>
+        <p>Foundation at Tanuku, West Godavari</p>
       </div>
 
-      {/* STORY SECTION */}
-
-      <div className="story-section">
-
-        <div className="story-image">
-
-          <img src={p2} alt="" />
-
-        </div>
-
-        <div className="story-text">
-
-          <h2>
-            Why Raviteja Home Foods Started
-          </h2>
-
-          <p>
-            In today’s modern world,
-            people are slowly moving away
-            from real homemade food and
-            becoming addicted to artificial taste.
-          </p>
-
-          <p>
-            At the same time,
-            many parents and elders
-            no longer have enough time
-            to prepare all the incredible
-            traditional recipes that once
-            filled homes with happiness.
-          </p>
-
-          <p>
-            Raviteja Home Foods was born
-            to protect those emotions,
-            preserve Telugu food culture,
-            and bring back the warmth
-            of homemade food into people’s lives.
-          </p>
-
-        </div>
-
+      <div className="timeline-card">
+        <h3>Expansion</h3>
+        <p>Rajahmundry & Khammam Operations</p>
       </div>
 
-      {/* CULTURE SECTION */}
-
-      <div
-        className="culture-section"
-        style={{
-          backgroundImage:
-          `linear-gradient(
-            rgba(0,0,0,0.65),
-            rgba(0,0,0,0.65)
-          ), url(${p3})`
-        }}
-      >
-
-        <div className="culture-overlay">
-
-          <h2>
-            Food Is Not Just Energy.
-            <br />
-            It Is An Emotion.
-          </h2>
-
-          <p>
-            We are not just preparing sweets,
-            pickles, namkeen, or spice powders.
-            We are carrying a beautiful culture
-            into future generations.
-          </p>
-
-        </div>
-
+      <div className="timeline-card">
+        <h3>1996</h3>
+        <p>Hyderabad Business Operations</p>
       </div>
 
-      {/* SPECIALITIES */}
-
-      <div className="special-section">
-
-        <h2>Our Homemade Specialities</h2>
-
-        <div className="special-grid">
-
-          <div className="special-card">
-            ❤️ Handmade With Love
-          </div>
-
-          <div className="special-card">
-            🌿 No Preservatives
-          </div>
-
-          <div className="special-card">
-            🏡 Authentic Telugu Taste
-          </div>
-
-          <div className="special-card">
-            ✨ Festival Specials
-          </div>
-
-          <div className="special-card">
-            🚚 Pan India Delivery
-          </div>
-
-          <div className="special-card">
-            👩‍🍳 Traditional Recipes
-          </div>
-
-        </div>
-
+      <div className="timeline-card">
+        <h3>Modern Era</h3>
+        <p>Advanced Technology & Machinery</p>
       </div>
 
-      {/* FOOD SHOWCASE */}
+      <div className="timeline-card">
+        <h3>Today</h3>
+        <p>Prestigious Private Limited Company</p>
+      </div>
 
-      <div className="food-showcase">
+    </div>
 
+  </div>
+
+  {/* RECOGNITIONS */}
+
+  <div className="recognition-section">
+
+    <h2>Recognitions & Milestones</h2>
+
+    <div className="recognition-grid">
+
+      <div className="recognition-card">
+  <img src={uncle4} alt="" />
+  <h3>Business Excellence</h3>
+</div>
+
+      <div className="recognition-card">
+        <img src={p3} alt="" />
+        <h3>Industry Recognition</h3>
+      </div>
+
+      <div className="recognition-card">
         <img src={p4} alt="" />
-
-        <img src={p1} alt="" />
-
+        <h3>Leadership Achievement</h3>
       </div>
 
-      {/* FINAL QUOTE */}
+    </div>
 
-      <div className="final-quote">
+  </div>
 
-        <h2>
-          “Food made with love
-          always tastes special.”
-        </h2>
+  {/* TRADEMARK */}
 
-        <p>
-          — Raviteja Home Foods
-        </p>
+  <div className="trademark-section">
 
+    <h2>Our Intellectual Property</h2>
+
+    <p>
+      Raviteja is an officially registered trademark.
+      Our brand identity, logos, product assets,
+      and intellectual property are legally protected,
+      ensuring authenticity, reliability, and trust.
+    </p>
+
+  </div>
+
+  {/* VALUES */}
+
+  <div className="values-section">
+
+    <h2>Our Core Values</h2>
+
+    <div className="values-grid">
+
+      <div className="value-box">
+         <h3>🏆 Commitment To Quality</h3>
+         
       </div>
 
-    </section>
+      <div className="value-box">
+        <h3>🤝 Customer Trust</h3>
+      </div>
 
-  );
+      <div className="value-box">
+        <h3>⚙️ Tradition & Technology</h3>
+      </div>
+
+      <div className="value-box">
+         <h3>🛡️ Ethical Business Practices</h3>
+      </div>
+
+      <div className="value-box">
+        <h3>🌍 Global Vision</h3>
+      </div>
+
+
+      
+
+      <div className="value-box">
+       <h3>❤️ Passion For Excellence</h3>
+      </div>
+
+    </div>
+
+  </div>
+
+  {/* VISION MISSION */}
+<div className="vision-mission">
+
+  <div className="vm-card">
+
+    <span><h1></h1>OUR VISION<h1/></span>
+
+    <h2>
+      Taking Indian Tradition
+      To The World
+    </h2>
+
+    <p>
+      To introduce authentic Indian traditional
+      flavours to global markets while maintaining
+      the highest standards of quality,
+      innovation, and customer satisfaction.
+    </p>
+
+  </div>
+
+  <div className="vm-card">
+
+    <span><h1></h1>OUR MISSION<h1/></span>
+
+    <h2>
+      Delivering Trust
+      In Every Product
+    </h2>
+
+    <p>
+      To provide families with premium food
+      products that combine quality, hygiene,
+      reliability, and traditional values,
+      creating a lasting relationship with
+      every customer.
+    </p>
+
+  </div>
+
+</div>
+
+  {/* FINAL */}
+
+  <div className="legacy-banner">
+
+    <h2>
+      More Than A Brand.
+      <br />
+      A Legacy Passed Through Generations.
+    </h2>
+
+    <p>
+      Raviteja Home Foods Private Limited
+    </p>
+
+  </div>
+
+</section>
+
+);
 }
 
 export default AboutPage;
